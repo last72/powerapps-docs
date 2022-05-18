@@ -53,6 +53,7 @@ You can start with inserting a blank container. And then, customize it by adding
 
 - Containers don't work within forms.
 - You cannot add tables to the layout containers.
+- You cannot add PDF viewer control in container.
 
 ## Frequently asked questions
 
